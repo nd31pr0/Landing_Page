@@ -1,0 +1,26 @@
+body {
+margin: 0;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.header {
+    background-color: #1F2937;
+    color: white;
+}
+
+.row2 {
+    background-color: #E5E7EB;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #1F2937;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
