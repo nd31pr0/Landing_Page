@@ -8,8 +8,34 @@ margin: 0;
 .header {
     background-color: #1F2937;
     color: white;
+    padding: 0 100px;
+    padding-bottom: 50px;
 }
-
+.header-top ul {
+    display: flex;
+    justify-content:space-between;
+}
+#h-logo {
+    font-size: 24px;
+    font-weight: 700;
+}
+.right {
+    display: flex;
+    justify-content:space-between;
+}
+.right li {
+    padding: 0 20px;
+}
+ul {
+    padding-left: 0%;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
 .row2 {
     background-color: #E5E7EB;
 }
