@@ -139,9 +139,6 @@ max-width: 60%;
 }
 .btn {
 height: 25px;
-
-
-
 margin-right: 10%;
 
 }
@@ -151,6 +148,14 @@ color: #F9FAF8;
 border-radius: 5px;
 border: solid #F9FAF8;
 padding: 2px 10px;
+}
+#call {
+color: #F9FAF8;
+font-size: 25px;
+font-weight: 800;
+}
+#msg {
+color: #F9FAF8;
 }
 .footer {
     position: sticky;
