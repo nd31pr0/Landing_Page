@@ -103,11 +103,18 @@ p#hero-main{
 }
 .row2 {
     background-color: #E5E7EB;
+    height: 100px;
+    text-align: center;
+}
+.row2 .p {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+    padding-top: 25px;
 }
 
-
 .footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     left: 0;
     background-color: #1F2937;
