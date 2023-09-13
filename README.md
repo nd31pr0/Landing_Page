@@ -1,12 +1,12 @@
 # Landing Page
 
 
-# Description
+## Description
 
 This project is a capstone project from the Odin Project curriculum for Css
 
 
-# Credits
+## Credits
 The Odin Project
 
 ## My Output 
