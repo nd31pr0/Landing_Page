@@ -111,6 +111,11 @@ p#hero-main{
     max-width: 700px;
     margin: 0 auto;
     padding-top: 25px;
+
+}
+.author {
+    text-align: right;
+    margin-right: 500px;
 }
 
 .footer {
